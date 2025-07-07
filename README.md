@@ -8,7 +8,3 @@ Este repositorio contiene el primer avance del proyecto final del ramo Sistemas 
 - **Javiera Paz Azócar Oliva**  
 - **Pablo Poblete Arraé**  
 - **Gabriel Acevedo**
-
-## 📁 Estructura del Repositorio
-- modelos_baseline_simulados.py
-- Diagrama de Gantt.xlsx
